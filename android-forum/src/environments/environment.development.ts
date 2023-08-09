@@ -1,5 +1,5 @@
 export const environment = {
    // apiUrl: 'http://localhost:3000/api'
-   apiUrl: `https://android-forum-server.onrender.com/api`,
+   apiUrl: `https://android-forum-server-deployed-version.onrender.com`,
    production: true,
 };
